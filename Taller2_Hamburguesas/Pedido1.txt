@@ -1,0 +1,4 @@
+Nombre: das
+Direccion: ada
+combo corral queso	26500/ncombo todoterreno	36900/nPrecio neto: 63400
+Precio IVA: 0/nPrecio total: 63400

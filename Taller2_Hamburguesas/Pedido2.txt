@@ -1,0 +1,4 @@
+Nombre: qsq
+Direccion: sqw
+combo corral	24500/nPrecio neto: 24500
+Precio IVA: 0/nPrecio total: 24500

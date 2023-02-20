@@ -1,0 +1,5 @@
+Nombre: asa
+Direccion: asa
+hawaiana sin huevo	20000
+combo corral	24500/nPrecio neto: 44500
+Precio IVA: 0/nPrecio total: 44500
